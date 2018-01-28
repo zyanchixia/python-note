@@ -1,0 +1,3 @@
+安装 ：
+Win 平台：以管理员身份运行cmd
+执行 pip install beautifulsoup4

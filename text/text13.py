@@ -2,7 +2,6 @@
 """
 Created on Mon Mar  5 17:39:45 2018
 
-@author: zhangyanhong
 """
 '''
 题目：打印出所有的"水仙花数"，所谓"水仙花数"是指一个三位数，

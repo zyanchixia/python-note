@@ -2,7 +2,6 @@
 """
 Created on Mon Mar  5 16:47:20 2018
 
-@author: zhangyanhong
 """
 '''
 题目：暂停一秒输出，并格式化当前时间。

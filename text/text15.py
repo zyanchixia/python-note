@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar  6 13:27:56 2018
-
-@author: zhangyanhong
 """
 '''
 题目：利用条件运算符的嵌套来完成此题：学习成绩>=90分的同学用A表示，

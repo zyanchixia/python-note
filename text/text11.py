@@ -2,7 +2,6 @@
 """
 Created on Mon Mar  5 16:56:39 2018
 
-@author: zhangyanhong
 """
 '''
 题目：古典问题：有一对兔子，从出生后第3个月起每个月都生一对兔子，

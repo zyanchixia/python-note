@@ -2,7 +2,6 @@
 """
 Created on Mon Mar  5 16:37:14 2018
 
-@author: zhangyanhong
 """
 '''
 题目：暂停一秒输出。

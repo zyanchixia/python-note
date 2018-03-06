@@ -2,7 +2,6 @@
 """
 Created on Mon Mar  5 17:20:18 2018
 
-@author: zhangyanhong
 """
 '''
 题目：判断101-200之间有多少个素数，并输出所有素数。

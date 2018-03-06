@@ -2,7 +2,6 @@
 """
 Created on Mon Mar  5 14:46:42 2018
 
-@author: zhangyanhong
 """
 
 '''题目：斐波那契数列。

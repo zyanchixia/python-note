@@ -2,7 +2,6 @@
 """
 Created on Mon Mar  5 15:58:08 2018
 
-@author: zhangyanhong
 """
 '''
 题目：将一个列表的数据复制到另一个列表中。

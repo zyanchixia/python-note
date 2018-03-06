@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar  5 16:04:56 2018
-
-@author: zhangyanhong
 """
 '''
 题目：输出 9*9 乘法口诀表。

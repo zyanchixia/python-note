@@ -2,7 +2,6 @@
 """
 Created on Tue Mar  6 15:41:33 2018
 
-@author: zhangyanhong
 """
 '''
 题目：一个数如果恰好等于它的因子之和，这个数就称为"完数"

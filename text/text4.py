@@ -2,7 +2,6 @@
 """
 Created on Tue Feb 27 15:32:41 2018
 
-@author: zhangyanhong
 """
 '''
 #题目：输入某年某月某日，判断这一天是这一年的第几天？

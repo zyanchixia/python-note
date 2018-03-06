@@ -2,7 +2,6 @@
 """
 Created on Tue Mar  6 16:11:54 2018
 
-@author: zhangyanhong
 """
 '''
 题目：一球从100米高度自由落下，每次落地后反跳回原高度的一半；再落下，

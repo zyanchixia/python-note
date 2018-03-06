@@ -2,7 +2,6 @@
 """
 Created on Tue Mar  6 13:41:21 2018
 
-@author: zhangyanhong
 """
 '''
 题目：输出指定格式的日期

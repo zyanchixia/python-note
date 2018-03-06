@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar  6 15:14:44 2018
-
-@author: zhangyanhong
 """
 '''
 题目：求s=a+aa+aaa+aaaa+aa...a的值，其中a是一个数字

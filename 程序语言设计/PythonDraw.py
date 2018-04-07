@@ -6,9 +6,9 @@ turtle.fd(-250)
 turtle.pendown() #放下笔
 turtle.pensize(25) #画笔型号
 turtle.pencolor('blue') #画笔颜色
-turtle.seth(-40)#方向
+turtle.seth(-40)#控制海龟绝对方向
 for i in range(4):
-    turtle.circle(40,80)
+    turtle.circle(40,80)#以40为半径，80度为弧度
     turtle.circle(-40,80)
 turtle.circle(40,80/2)
 turtle.fd(40)

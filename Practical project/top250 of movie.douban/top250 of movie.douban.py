@@ -29,7 +29,7 @@ for i in sel.xpath('//div[@class="info"]'):
     comCount = i.xpath('//div[@class="star"]/span[4]/text()')[0] #评论人数
     print('TOP%s'%str(k))
     print(title,info_1,date,country,geners,rate,comCount)
-    with open(r'C:\Users\ningkang\Desktop\top250.txt','a',encoding='utf-8') as f:
+    with open(r'top250.txt','a',encoding='utf-8') as f:
         f.write('TOP%s\n影片名称:%s\n评分:%s %s人评论\n上映日期:%s\n上映国家:%s\n导演:%s\n'
                 %(k,title,rate,comCount,date,country,info_1))
         f.write("=============================\n")

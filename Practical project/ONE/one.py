@@ -49,7 +49,7 @@ for i in range(14,2043):#2043是2018年4月11日的页面对应
         words[int(index)] = b[0].string.split() #将该期每日一句存入列表
         
 f = open('one20.txt','a',encoding='utf-8')#将每句话写入这个txt文件中,先打开
-#默认存放在你脚本放的位置,问题：怎么改地址
+#默认存放在你脚本放的位置,可以改为你自己的地址
 for i in range(1,2043):
     if(words[i]=='0'):
         continue

@@ -9,7 +9,7 @@ import requests
 from lxml import html
 k = 1
 for n in range(10):
-    url = r'https://movie.douban.com/top250?start={}&filter='.format(n*25)
+    url = r'https://movie.douban.com/top250?start={0}&filter='.format(n*25)
     con = requests.get(url).content
     sel = html.fromstring(con)
 

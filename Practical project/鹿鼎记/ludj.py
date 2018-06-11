@@ -1,6 +1,6 @@
 import jieba
 import wordcloud
-import codecs
+
 f = open(鹿鼎记.txt','r',encoding='gb18030')
 #文本中出现的一些特殊符号超出了gbk的编码范围，可以选择编码范围更广的‘gb18030’
 t = f.read()

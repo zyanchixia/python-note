@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2019/3/17 19:27
-# @Author  : XueQian
 # @Site    : 
 # @File    : 微信群发消息.py
 # @Software: PyCharm
